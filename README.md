@@ -2,17 +2,18 @@
 
 
 
-Enter This in your Terminal
-## 1.composer require nascent-africa/jetstrap --dev
+## 1.Enter This in your Terminal
+composer require nascent-africa/jetstrap --dev
 
-Enter This in your Terminal
-## 2.php artisan jetstrap:swap livewire
+## 2.Enter This in your Terminal
+php artisan jetstrap:swap livewire
 
-Enter This in your Terminal
-## 3.npm install
+## 3.Enter This in your Terminal
+npm install
 
-Enter This in your Terminal
-## 4.npm run dev
+## 4.Enter This in your Terminal
+npm run dev
 
-if npm run dev Not work so Enter This in your Terminal
-## 4.npm run watch
+## Note:
+## if npm run dev Not work so Enter This in your Terminal
+npm run watch
